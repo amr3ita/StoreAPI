@@ -6,7 +6,7 @@ API for Store with node.js
 <ol>
 <li>you should download all packages by using this command in terminal <br>
     npm install</li>
-<li>open .env file and put your data</li>
+<li>make your .env file and put your data(PORT,DB_URI,HOST,USERNAME,PASSWORD,DB_NAME)</li>
 <li>run it With this command<br>
     npm start</li>
 <li>open Postman to test it:<br>
